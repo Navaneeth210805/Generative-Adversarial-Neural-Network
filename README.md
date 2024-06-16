@@ -14,8 +14,6 @@
         <li><a href="#outputs">Outputs</a></li>
         <li><a href="#results">Results</a></li>
         <li><a href="#contributing">Contributing</a></li>
-        <li><a href="#license">License</a></li>
-        <li><a href="#contact">Contact</a></li>
     </ul>
 
   <h2 id="prerequisites">Prerequisites</h2>
@@ -118,12 +116,3 @@
         <li>Open a pull request.</li>
     </ol>
 
-  <h2 id="license">License</h2>
-    <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
-
-  <h2 id="contact">Contact</h2>
-    <p>For questions or feedback, please contact:</p>
-    <ul>
-        <li><strong>Your Name:</strong> <a href="mailto:your-email@example.com">your-email@example.com</a></li>
-        <li><strong>GitHub:</strong> <a href="https://github.com/your-profile">Your GitHub Profile</a></li>
-    </ul>
